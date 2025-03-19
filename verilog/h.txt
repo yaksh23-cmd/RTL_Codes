@@ -1,5 +1,0 @@
-module Single_port_ram(clk ,in , we ,en );
-  
-  
-  
-endmodule
